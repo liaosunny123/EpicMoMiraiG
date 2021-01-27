@@ -20,4 +20,9 @@
 - emg getServerIP: 获得HTTP的ServerIP
 - emg getServerPort: 获得HTTP的Port
 - emg getServerKey：获得HTTP的Key
+## 使用
+1.首次使用提示目录不全，忽略进入
+2.点击更新源(以后定期自己更新)
+3.点击更新(下载该源所有文件)(更新时自己点击下载，无响应不管)
+4.输入emg start完成第一次启动(出现数组错误重启软件即可)
  
