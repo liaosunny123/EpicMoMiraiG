@@ -15,9 +15,9 @@
 等等
 ## EMG命令（emg [verb][noun]）
  输入emg help以获得帮助
- emg start：开启Mirai
- emg clear: 清空屏幕
- emg getServerIP: 获得HTTP的ServerIP
- emg getServerPort: 获得HTTP的Port
- emg getServerKey：获得HTTP的Key
+- emg start：开启Mirai
+- emg clear: 清空屏幕
+- emg getServerIP: 获得HTTP的ServerIP
+- emg getServerPort: 获得HTTP的Port
+- emg getServerKey：获得HTTP的Key
  
