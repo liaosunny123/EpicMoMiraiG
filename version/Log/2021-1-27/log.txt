@@ -1,0 +1,12 @@
+[14:45]#ERROR#EMG is not permitted to create new file
+[14:45]#DEBUG#Carrying out Update
+[14:45]#NOTICE#Updating new information from£ºwww.epicmo.cn
+[14:47]#DEBUG#EpicMoMiraiG started
+[14:48]#DEBUG#emg started.
+[14:48]#NOTICE#creating process...
+[14:48]#DEBUG#Loading Mirai
+[14:48]#DEBUG#EpicMoMiraiG started
+[14:48]#DEBUG#emg started.
+[14:48]#NOTICE#creating process...
+[14:48]#DEBUG#Loading Mirai
+[14:48]#DEBUG#emg input:

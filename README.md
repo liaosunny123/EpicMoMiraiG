@@ -20,4 +20,24 @@
 - emg getServerIP: 获得HTTP的ServerIP
 - emg getServerPort: 获得HTTP的Port
 - emg getServerKey：获得HTTP的Key
- 
+
+
+
+## 使用方法
+
+1. 打开软件，点击“更新源”
+2. 点击“更新”（进入需要点击下载）
+3. 输入emg start(报错请重启即可)
+
+## 版本更新
+
+Beta 0.2:
+
+- 修复登录错误逻辑
+- 加入对HTTP-api的更多支持
+- 画了更多的饼
+- 加入账户管理
+
+Beta 0.1:
+
+- 构建EMG核心，暂定为EMG-Core

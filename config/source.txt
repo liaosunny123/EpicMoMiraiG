@@ -1,0 +1,12 @@
+[Task]
+Number=4
+[Durl]
+1=https://epicmo.lanzoux.com/iPlTYkvv6jc
+2=https://epicmo.lanzoux.com/iGT9Ykvv6le
+3=https://epicmo.lanzoux.com/i6WmIkvv6ng
+4=https://epicmo.lanzoux.com/iKqUTkwh0ze
+[DFiles]
+1=MCC2.1.0.jar
+2=MC2.0.0.jar
+3=MCT2.0.0.jar
+4=MC-HTTPapi.jar
