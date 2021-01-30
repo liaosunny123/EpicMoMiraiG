@@ -20,6 +20,8 @@
 - emg getServerIP: 获得HTTP的ServerIP
 - emg getServerPort: 获得HTTP的Port
 - emg getServerKey：获得HTTP的Key
+- emg editServerKey [Value]：自定义ServerKey
+- emg fixhttp：修复http占用问题
 
 
 
@@ -30,6 +32,19 @@
 3. 输入emg start(报错请重启即可)
 
 ## 版本更新
+
+1.0.0：
+
+修复：
+
+- 锁定设置界面
+- 修复数组错误
+- 修复多开错误
+
+增加：
+
+- HTTP-API修改Key
+- 自检
 
 Beta0.3:
 
