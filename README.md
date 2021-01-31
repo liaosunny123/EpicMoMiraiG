@@ -22,6 +22,7 @@
 - emg getServerKey：获得HTTP的Key
 - emg editServerKey [Value]：自定义ServerKey
 - emg fixhttp：修复http占用问题
+- emg stop：终止mirai运行(DEBUG的好方法)
 
 
 
