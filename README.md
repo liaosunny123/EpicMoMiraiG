@@ -1,5 +1,7 @@
 # EpicMoMiraiG
 辅助Mirai进行独立启动，并增加辅助功能 / Help Mirai start independly and add more fuction help Mirai or other programs
+# 更快的下载
+[EMCloud](http://files.epicmo.cn/?/Github/Package/EpicMoMiraiG/)
 ## 现有的功能
 - 更新Mirai最新源（包含MiraiHTTP，MiraiCore，MiraiConsole，MiraiConsole前端）
 - 自动安装并启动Mirai，且无需用户自己操作（相当于一个Mirai自动启动器）
