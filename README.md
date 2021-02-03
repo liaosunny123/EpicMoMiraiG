@@ -2,6 +2,33 @@
 辅助Mirai进行独立启动，并增加辅助功能 / Help Mirai start independly and add more fuction help Mirai or other programs
 # 更快的下载
 [EMCloud](http://files.epicmo.cn/?/Github/Package/EpicMoMiraiG/)
+
+# 插件投稿
+
+你可以在插件中心加入你自己的插件，请提交issue并提供如下格式：
+
+Name=插件名称
+FilesName=插件保存文件（带后缀）
+Describe=（一句话描述）
+Version=插件版本
+EMGVersion=1
+Github=项目地址
+LZLinks=
+Able=True
+Time=日期
+
+e.g.
+
+Name=EMG-Test
+FilesName=EMG-Test.jar
+Describe=EMG测试插件
+Version=1.0.0
+EMGVersion=1
+Github=xxx
+LZLinks=
+Able=True
+Time=2021.2.2
+
 ## 现有的功能
 - 更新Mirai最新源（包含MiraiHTTP，MiraiCore，MiraiConsole，MiraiConsole前端）
 - 自动安装并启动Mirai，且无需用户自己操作（相当于一个Mirai自动启动器）
