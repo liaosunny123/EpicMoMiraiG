@@ -2,7 +2,7 @@
 辅助Mirai进行独立启动，并增加辅助功能 / Help Mirai start independly and add more fuction help Mirai or other programs
 # 更快的下载
 [EMCloud](http://files.epicmo.cn/?/Github/Package/EpicMoMiraiG/)
-**EMCloud下载不会一直为最新的，因为懒**
+**EMCloud下载不会一直为最新的，因为懒，请借助于内置更新检测**
 # 插件投稿
 在docs文件夹内获得更多信息支持，提交issue即可
 ## 现有的功能
