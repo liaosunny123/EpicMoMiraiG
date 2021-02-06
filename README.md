@@ -65,6 +65,27 @@ Time=2021.2.2
 
 ## 版本更新
 
+**1.0.8**
+
+值得注意的是，1.0.8为一个比较重要的版本，建议用户升级本版本作为日常生产使用的版本，本版本有如下特点：
+
+修复:
+
+- 修复所有已知bug
+
+增加：
+
+- Downloader模块（Downloader模块是一个开放的模块，支持不仅限于EMG的请求，任何人可以随意向EMG请求，若要开发请参见docs）
+- 辅助下载（包含Libs、Native-Library组件等等）
+- 增加对Native的选项卡，EMG将会适配Native相关功能
+- Native：插件安装
+- Native：错误日志收集
+- Native：环境处理
+- Native：Library和jre32处理
+- 酷Q-DLL的json自动编写
+- Downloader模块的请求文件编写
+- EMG错误日志自动收集并提示
+
 **1.0.7**
 
 修复:
