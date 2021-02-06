@@ -2,33 +2,9 @@
 辅助Mirai进行独立启动，并增加辅助功能 / Help Mirai start independly and add more fuction help Mirai or other programs
 # 更快的下载
 [EMCloud](http://files.epicmo.cn/?/Github/Package/EpicMoMiraiG/)
-
+**EMCloud下载不会一直为最新的，因为懒**
 # 插件投稿
-
-你可以在插件中心加入你自己的插件，请提交issue并提供如下格式：
-
-Name=插件名称
-FilesName=插件保存文件（带后缀）
-Describe=（一句话描述）
-Version=插件版本
-EMGVersion=1
-Github=项目地址
-LZLinks=
-Able=True
-Time=日期
-
-e.g.
-
-Name=EMG-Test
-FilesName=EMG-Test.jar
-Describe=EMG测试插件
-Version=1.0.0
-EMGVersion=1
-Github=xxx
-LZLinks=
-Able=True
-Time=2021.2.2
-
+在docs文件夹内获得更多信息支持，提交issue即可
 ## 现有的功能
 - 更新Mirai最新源（包含MiraiHTTP，MiraiCore，MiraiConsole，MiraiConsole前端）
 - 自动安装并启动Mirai，且无需用户自己操作（相当于一个Mirai自动启动器）
@@ -38,14 +14,11 @@ Time=2021.2.2
 - 插件中心
 - 错误维护
 ## 预计加入的功能
-- 静默启动（为仅需要QQ发送信息的软件使用）
-- 可以自定义配置
-- 为每个插件设置独立的更新渠道，可以自动更新（EMG会提供一个下载器）
-- 为HTTP开发者直接接入
-- 图形化管理插件
-等等
+目前解决完毕，提交issue来帮助开发更过功能
+**目前以沫会投入于Linux服务端开发，并行分支均不会再以小版本更新。修复bug发布pre release，大功能(3-5个)发布release**
 ## EMG命令（emg [verb][noun]）
  输入emg help以获得帮助
+(emg help帮助信息不一定为最全的，github帮助文档最全，因为懒)
 - emg start：开启Mirai
 - emg clear: 清空屏幕
 - emg getServerIP: 获得HTTP的ServerIP
@@ -54,19 +27,14 @@ Time=2021.2.2
 - emg editServerKey [Value]：自定义ServerKey
 - emg fixhttp：修复http占用问题
 - emg stop：终止mirai运行(DEBUG的好方法)
-
-
-
+- emg restart：重启mirai
+- emg setQQ [QQ]：设置内置管理账号的QQ(限制单个)
 ## 使用方法
-
 1. 打开软件，点击“更新源”
 2. 点击“更新”（进入需要点击下载）
 3. 输入emg start(报错请重启即可)
-
 ## 版本更新
-
 **1.0.8**
-
 值得注意的是，1.0.8为一个比较重要的版本，建议用户升级本版本作为日常生产使用的版本，本版本有如下特点：
 
 修复:
