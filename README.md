@@ -5,16 +5,22 @@
 **EMCloud下载不会一直为最新的，因为懒，请借助于内置更新检测**
 # 插件投稿
 在docs文件夹内获得更多信息支持，提交issue即可
-## 现有的功能
-- 更新Mirai最新源（包含MiraiHTTP，MiraiCore，MiraiConsole，MiraiConsole前端）
-- 自动安装并启动Mirai，且无需用户自己操作（相当于一个Mirai自动启动器）
-- 自动获取Mirai HTTP的相关信息（ServerIP，Port，Key）
-- 渲染与安全
-- 日志功能
-- 插件中心
-- 错误维护
+## 特色功能
+- 一键启动Mirai并解决依赖问题(无需手动编译和安装，自动配置环境)
+- 错误日志自动分类导出(无需手动截图错误，可分模块导出错误)
+- HTTPAPI内置适配
+- 滑块验证内置适配
+- HTTPAPI直接管理(一键获取ServerIP等配置信息)
+- 账户管理模块(EMG内置小型管理模块，可以发送私聊，群聊等消息，下载发送网络图片，便捷版本QQ)
+- Native管理模块(帮助你解决依赖和配置)
+- 酷Q插件自动安装json和dll一键导入(拖动于emg即可)
+- Native jre32和library自动适配
+- Native错误日志一键搜集
+- 视频教程和文档
+- 可接入第三方开发
+等等特色功能
 ## 预计加入的功能
-目前解决完毕，提交issue来帮助开发更过功能
+提交issue来帮助开发更多功能
 **目前以沫会投入于Linux服务端开发，并行分支均不会再以小版本更新。修复bug发布pre release，大功能(3-5个)发布release**
 ## EMG命令（emg [verb][noun]）
  输入emg help以获得帮助
