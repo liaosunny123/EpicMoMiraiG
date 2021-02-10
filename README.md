@@ -1,5 +1,8 @@
 # EpicMoMiraiG
 辅助Mirai进行独立启动，并增加辅助功能 / Help Mirai start independly and add more fuction help Mirai or other programs
+# 群聊
+交流群：811098227
+问题提交issue
 # 更快的下载
 [EMCloud](http://files.epicmo.cn/?/Github/Package/EpicMoMiraiG/)
 **EMCloud下载不会一直为最新的，因为懒，请借助于内置更新检测**
