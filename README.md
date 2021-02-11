@@ -1,20 +1,29 @@
 # EpicMoMiraiG
 辅助Mirai进行独立启动，并增加辅助功能 / Help Mirai start independly and add more fuction help Mirai or other programs
+# 群聊
+交流群：811098227
+问题提交issue
 # 更快的下载
 [EMCloud](http://files.epicmo.cn/?/Github/Package/EpicMoMiraiG/)
 **EMCloud下载不会一直为最新的，因为懒，请借助于内置更新检测**
 # 插件投稿
 在docs文件夹内获得更多信息支持，提交issue即可
-## 现有的功能
-- 更新Mirai最新源（包含MiraiHTTP，MiraiCore，MiraiConsole，MiraiConsole前端）
-- 自动安装并启动Mirai，且无需用户自己操作（相当于一个Mirai自动启动器）
-- 自动获取Mirai HTTP的相关信息（ServerIP，Port，Key）
-- 渲染与安全
-- 日志功能
-- 插件中心
-- 错误维护
+## 特色功能
+- 一键启动Mirai并解决依赖问题(无需手动编译和安装，自动配置环境)
+- 错误日志自动分类导出(无需手动截图错误，可分模块导出错误)
+- HTTPAPI内置适配
+- 滑块验证内置适配
+- HTTPAPI直接管理(一键获取ServerIP等配置信息)
+- 账户管理模块(EMG内置小型管理模块，可以发送私聊，群聊等消息，下载发送网络图片，便捷版本QQ)
+- Native管理模块(帮助你解决依赖和配置)
+- 酷Q插件自动安装json和dll一键导入(拖动于emg即可)
+- Native jre32和library自动适配
+- Native错误日志一键搜集
+- 视频教程和文档
+- 可接入第三方开发
+等等特色功能
 ## 预计加入的功能
-目前解决完毕，提交issue来帮助开发更过功能
+提交issue来帮助开发更多功能
 **目前以沫会投入于Linux服务端开发，并行分支均不会再以小版本更新。修复bug发布pre release，大功能(3-5个)发布release**
 ## EMG命令（emg [verb][noun]）
  输入emg help以获得帮助
@@ -30,15 +39,20 @@
 - emg restart：重启mirai
 - emg setQQ [QQ]：设置内置管理账号的QQ(限制单个)
 ## 使用方法
+(B站搜索本软件名有视频教程)
 1. 打开软件，点击“更新源”
-2. 点击“更新”（进入需要点击下载）
+2. 点击“更新”（Download需要点击下载）
 3. 输入emg start(报错请重启即可)
+注：首次启动需要修改HTTPAPIKey并重启!
 ## 版本更新
+<<<<<<< HEAD
 **2.1.0**
 
 修复
 
 - 启动项等3个bug
+=======
+>>>>>>> 11a50c0461854e6c922fbdb24b86d38a6740f930
 
 **2.0.0**
 
@@ -62,8 +76,13 @@
 注意
 
 若要修改屏蔽区块代码，请在\MConfig\SSetings.emg找到Output中BlockCode选项，设置为1即可
+<<<<<<< HEAD
 
 本版本作为日常生产使用的版本，本版本有如下特点：
+=======
+**1.0.8**
+值得注意的是，1.0.8为一个比较重要的版本，建议用户升级本版本作为日常生产使用的版本，本版本有如下特点：
+>>>>>>> 11a50c0461854e6c922fbdb24b86d38a6740f930
 
 修复:
 
