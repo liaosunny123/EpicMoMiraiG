@@ -1,0 +1,6 @@
+[Version]
+Lastest=8
+Force=False
+Upup=修复启动项等3个影响正常使用的bug
+[ForceUpdate]
+Pass=5
