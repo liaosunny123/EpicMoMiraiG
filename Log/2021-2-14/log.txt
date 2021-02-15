@@ -1,0 +1,17 @@
+[12:34]#INFO#EpicMoMiraiG started
+[12:34]#INFO#Get new plugins information...
+[12:34]#INFO#Describe menu
+[12:34]#INFO#DLL menu
+[12:34]#INFO#Rename menu's name
+[12:34]#INFO#Mune finished
+[12:34]#NOTICE#Mirai Core has been closed
+[12:34]#NOTICE#EMG-Core has been closed
+[12:34]#NOTICE#pipe has been closed.
+[18:56]#INFO#EpicMoMiraiG started
+[18:56]#NOTICE#Mirai Core has been closed
+[18:56]#NOTICE#EMG-Core has been closed
+[18:56]#NOTICE#pipe has been closed.
+[18:57]#INFO#EpicMoMiraiG started
+[18:57]#NOTICE#Mirai Core has been closed
+[18:57]#NOTICE#EMG-Core has been closed
+[18:57]#NOTICE#pipe has been closed.

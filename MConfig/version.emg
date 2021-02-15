@@ -1,6 +1,6 @@
 [Version]
-Lastest=8
+Lastest=9
 Force=False
-Upup=修复启动项等3个影响正常使用的bug
+Upup=修复Native错误和增加Native支持
 [ForceUpdate]
 Pass=5
