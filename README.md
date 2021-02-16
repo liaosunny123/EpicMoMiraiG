@@ -1,6 +1,15 @@
 # EpicMoMiraiG
 辅助Mirai进行独立启动，并增加辅助功能 / Help Mirai start independly and add more fuction help Mirai or other programs
+# 截图
+
+![start](pic\start.png)
+
+![plugins](\pic\plugins.png)
+
+![manager](\pic\manager.png)
+
 # 群聊
+
 交流群：811098227
 问题提交issue
 # 更快的下载
@@ -45,6 +54,16 @@
 3. 输入emg start(报错请重启即可)
 注：首次启动需要修改HTTPAPIKey并重启!
 ## 版本更新
+**2.5.1**
+
+增加：
+
+- 取消大小写区别
+
+修复：
+
+- 对EMG关闭的错误引用
+
 **2.5.0**
 
 增加：
