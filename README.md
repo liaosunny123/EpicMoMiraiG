@@ -1,5 +1,5 @@
 # EpicMoMiraiG
-辅助Mirai进行独立启动，并增加辅助功能 / Help Mirai start independly and add more fuction help Mirai or other programs
+EMG6.0立项，如果有开发兴趣欢迎私聊交流群群主
 # 官方网站
 [EMG发布页](https://emg.epicmo.cn)
 [EMG教程论坛](https://bbs.epicmo.cn)
